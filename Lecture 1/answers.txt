@@ -1,0 +1,10 @@
+# Circuit A
+qc_A = QuantumCircuit(1)
+qc_A.h(0)
+qc_A.rz(theta_param, 0)
+
+# Circuit B
+qc_B = QuantumCircuit(1)
+qc_B.h(0)
+qc_B.rz(theta_param, 0)
+qc_B.rx(phi_param, 0)
