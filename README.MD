@@ -1,6 +1,6 @@
 #%% md
 # Phys 710 "Quantum Machine Learning for Physicists" 
-hese are the lecture notes and Hands-on sessions for Phys710 Lecture in METU Physics. 
+These are the lecture notes and Hands-on sessions for Phys710 Lecture in METU Physics. 
 These lectures are a mix of [Qiskit Machine Learning book](), our book and some exercises. 
 They consist of a series of Jupyter notebooks. 
 
