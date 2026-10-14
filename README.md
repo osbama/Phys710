@@ -106,16 +106,16 @@ The rest of the parameters are designed to enable you connecting to the jupyter 
 * [Part 2](https://drive.google.com/file/d/1HFWq6HLkynoeb_Wn2_DpU1DC8ADNZ_DB/view) 
 
 ## Theory
-* Theory 1 <a target="_blank" href="https://colab.research.google.com/github/osbama/Phys710/blob/main/theory/theory1.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+* Theory 1 <a target="_blank" href="https://colab.research.google.com/github/osbama/Phys710/blob/master/theory/theory1.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## Hands On Sessions
-* Hands-on 1<a target="_blank" href="https://colab.research.google.com/github/osbama/Phys710/blob/main/hands-on/hands_on-1.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-* Hands-on 2<a target="_blank" href="https://colab.research.google.com/github/osbama/Phys710/blob/main/hands-on/hands_on-2.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-* Hands-on 3<a target="_blank" href="https://colab.research.google.com/github/osbama/Phys710/blob/main/hands-on/hands_on-3.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-* Hands-on 4<a target="_blank" href="https://colab.research.google.com/github/osbama/Phys710/blob/main/hands-on/hands_on-4.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-* Hands-on 5<a target="_blank" href="https://colab.research.google.com/github/osbama/Phys710/blob/main/hands-on/hands_on-5.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-* Hands-on 6<a target="_blank" href="https://colab.research.google.com/github/osbama/Phys710/blob/main/hands-on/hands_on-6.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-* Hands-on 7<a target="_blank" href="https://colab.research.google.com/github/osbama/Phys710/blob/main/hands-on/hands_on-7.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-* Hands-on 8<a target="_blank" href="https://colab.research.google.com/github/osbama/Phys710/blob/main/hands-on/hands_on-8.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-* Hands-on 9<a target="_blank" href="https://colab.research.google.com/github/osbama/Phys710/blob/main/hands-on/hands_on-9.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+* Hands-on 1<a target="_blank" href="https://colab.research.google.com/github/osbama/Phys710/blob/master/hands-on/hands_on-1.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+* Hands-on 2<a target="_blank" href="https://colab.research.google.com/github/osbama/Phys710/blob/master/hands-on/hands_on-2.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+* Hands-on 3<a target="_blank" href="https://colab.research.google.com/github/osbama/Phys710/blob/master/hands-on/hands_on-3.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+* Hands-on 4<a target="_blank" href="https://colab.research.google.com/github/osbama/Phys710/blob/master/hands-on/hands_on-4.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+* Hands-on 5<a target="_blank" href="https://colab.research.google.com/github/osbama/Phys710/blob/master/hands-on/hands_on-5.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+* Hands-on 6<a target="_blank" href="https://colab.research.google.com/github/osbama/Phys710/blob/master/hands-on/hands_on-6.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+* Hands-on 7<a target="_blank" href="https://colab.research.google.com/github/osbama/Phys710/blob/master/hands-on/hands_on-7.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+* Hands-on 8<a target="_blank" href="https://colab.research.google.com/github/osbama/Phys710/blob/master/hands-on/hands_on-8.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+* Hands-on 9<a target="_blank" href="https://colab.research.google.com/github/osbama/Phys710/blob/master/hands-on/hands_on-9.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
