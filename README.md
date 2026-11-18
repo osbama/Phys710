@@ -115,7 +115,4 @@ The rest of the parameters are designed to enable you connecting to the jupyter 
 * Hands-on 4<a target="_blank" href="https://colab.research.google.com/github/osbama/Phys710/blob/master/hands-on/hands_on-4.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 * Hands-on 5<a target="_blank" href="https://colab.research.google.com/github/osbama/Phys710/blob/master/hands-on/hands_on-5.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 * Hands-on 6<a target="_blank" href="https://colab.research.google.com/github/osbama/Phys710/blob/master/hands-on/hands_on-6.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-* Hands-on 7<a target="_blank" href="https://colab.research.google.com/github/osbama/Phys710/blob/master/hands-on/hands_on-7.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-* Hands-on 8<a target="_blank" href="https://colab.research.google.com/github/osbama/Phys710/blob/master/hands-on/hands_on-8.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-* Hands-on 9<a target="_blank" href="https://colab.research.google.com/github/osbama/Phys710/blob/master/hands-on/hands_on-9.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
